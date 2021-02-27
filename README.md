@@ -1,7 +1,7 @@
 # GameofThrones React SPA
-# In this SPA u can check different Characters, Houses, Books.
+<p> In this SPA u can check different Characters, Houses, Books. </p>
 
-<p align='center'>You can also see Random Character, which updates every 15 seconds.</p>
+<i align='left'>You can also see Random Character, which updates every 15 seconds.</i>
 
 
 
